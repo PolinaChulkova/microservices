@@ -5,6 +5,9 @@
       <module name="eureca-client2" target="11" />
       <module name="eureca-client2.main" target="11" />
       <module name="eureca-client2.test" target="11" />
+      <module name="spring-cofig-server" target="11" />
+      <module name="spring-cofig-server.main" target="11" />
+      <module name="spring-cofig-server.test" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
